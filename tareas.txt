@@ -1,0 +1,4 @@
+en mysql ejecutar: 
+1) alter user 'fpuser'@'%' identified with mysq_native_password by 'xxxxx';
+2) flush privileges
+
